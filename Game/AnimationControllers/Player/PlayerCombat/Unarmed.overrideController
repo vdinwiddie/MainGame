@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Unarmed
+  m_Controller: {fileID: 9100000, guid: 03522bf201fa7ce4bbfbf9bee9450571, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: -3268496179099237147, guid: 85790e4523abc214599a06b6db09a7e4, type: 3}
+    m_OverrideClip: {fileID: 8993902097722301239, guid: 986622c0e069cd04689bf85c2a0c8f62, type: 3}
+  - m_OriginalClip: {fileID: -7675148277510182533, guid: 85790e4523abc214599a06b6db09a7e4, type: 3}
+    m_OverrideClip: {fileID: 8993902097722301239, guid: 7f959389dcfb8c04191d07e900ce8f6d, type: 3}
+  - m_OriginalClip: {fileID: -1256168277669600811, guid: 85790e4523abc214599a06b6db09a7e4, type: 3}
+    m_OverrideClip: {fileID: 8993902097722301239, guid: 94f1d9a894c4afe4b926a5ef27c79772, type: 3}
+  - m_OriginalClip: {fileID: -5780688412928289979, guid: 85790e4523abc214599a06b6db09a7e4, type: 3}
+    m_OverrideClip: {fileID: 8993902097722301239, guid: ac7a247017c425e4abd7cdaee077f3a0, type: 3}

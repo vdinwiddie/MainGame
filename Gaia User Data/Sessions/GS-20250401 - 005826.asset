@@ -1,0 +1,128 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e251860fcd970734c9f14ebd98a146c3, type: 3}
+  m_Name: GS-20250401 - 005826
+  m_EditorClassIdentifier: 
+  m_name: Session 20250401-005826
+  m_description: 'Rocking out at Creativity Central!
+
+
+    If you like Gaia please
+    consider rating it :)'
+  m_previewImage: {fileID: 0}
+  m_dateCreated: 4/1/2025 12:58:26 AM
+  m_terrainWidth: 1024
+  m_terrainDepth: 1024
+  m_terrainHeight: 1024
+  m_seaLevel: 25
+  m_spawnDensity: 0.8
+  m_isLocked: 0
+  m_previewImageBytes: 
+  m_previewImageWidth: 0
+  m_previewImageHeight: 0
+  m_operations:
+  - m_description: Clear World
+    m_operationType: 10
+    m_isActive: 1
+    m_affectedTerrainNames: []
+    m_operationDateTime: 4/1/2025 1:14:12 AM
+    scriptableObjectAssetGUID: 
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: 'Creating World: 1 x 1 tiles, tile size: 1024'
+    m_operationType: 0
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20250401 - 011412
+    m_operationDateTime: 4/1/2025 1:14:12 AM
+    scriptableObjectAssetGUID: d7ab92e03a7d7564e8fd739c5aadb8b9
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Gaia Pro Sample-Grass(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20250401 - 011412
+    m_operationDateTime: 4/1/2025 1:15:05 AM
+    scriptableObjectAssetGUID: 2eac96e40be4405439465fb1e23a615c
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Gaia Pro Sample-Tree(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20250401 - 011412
+    m_operationDateTime: 4/1/2025 1:15:33 AM
+    scriptableObjectAssetGUID: aad74c3b8699f8c469bd58f7e81ee822
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Gaia Pro Sample-Rock(Clone)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20250401 - 011412
+    m_operationDateTime: 4/1/2025 1:15:38 AM
+    scriptableObjectAssetGUID: e54c1e5e218b0af48b3ce851076840b8
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Clearing - Trees Details GOs, CurrentTerrainOnly, AnySource
+    m_operationType: 3
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20250401 - 011412
+    m_operationDateTime: 4/2/2025 2:23:54 PM
+    scriptableObjectAssetGUID: 8a8b7e771d78b0340a638f62eff584ad
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  - m_description: Spawning - Multiple Spawners (7)
+    m_operationType: 7
+    m_isActive: 1
+    m_affectedTerrainNames:
+    - Terrain_0_0-20250401 - 011412
+    m_operationDateTime: 4/2/2025 2:25:03 PM
+    scriptableObjectAssetGUID: 616377ebc4262f74db29e3519d6abec5
+    m_isFoldedOut: 0
+    sessionPlaybackState: 1
+    m_terrainsFoldedOut: 0
+    m_serializedExternalAction: 
+  m_terrainMinMaxCache:
+  - guid: f88ace90023561941a45b191e91c628f
+    isWorldmap: 0
+    recalculate: 0
+    min: 0
+    max: 113.001724
+  - guid: Worldmap
+    isWorldmap: 1
+    recalculate: 0
+    min: 0
+    max: 56.111115
+  m_bakedMaskCacheEntries:
+  - fileName: Terrain_0_0-20250401 - 011412_LayerGameObject_3584_5
+    assetPath: Assets/Procedural Worlds/Packages - Install/Gaia/TerrainCollisionData/Terrain_0_0-20250401
+      - 011412/Terrain_0_0-20250401 - 011412_LayerGameObject_3584_5
+    fullPath: G:/Projects/Main Game/Main Game/Assets/Procedural Worlds/Packages -
+      Install/Gaia/TerrainCollisionData/Terrain_0_0-20250401 - 011412/Terrain_0_0-20250401
+      - 011412_LayerGameObject_3584_5
+    texture: {fileID: 0}
+  m_worldBiomeMaskSettings: {fileID: 0}
